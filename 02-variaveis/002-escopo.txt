@@ -1,7 +1,7 @@
-1. Variaveis Jave script não 
+1. Variaveis JavaScript não 
 pode inciar com simbolos, 
 numeros ou conter palavras 
-reservadas.
+reservada.
 
 Exemplo incorretos:
     let 1carro = 1;
@@ -34,7 +34,7 @@ Exemplo:
 
 Para o java script são nome 
 diferentes e pode armazenar 
-nomes diferentes.
+valores diferentes.
 também não adianta tentar 
 usar LET ao inves de let
 
@@ -46,8 +46,7 @@ Exemplo:
     { // Dentro do bloco
     let x = 2;
 } // Fora do bloco
-document.write( x )
-// erro
+let X = undefind;
 
 Para isso declare a fora do 
 bloco.
@@ -58,3 +57,4 @@ EXEMPLO CORRETO;
         nome = "João"
     } 
     document.write( nome )
+    //"joão"

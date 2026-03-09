@@ -18,6 +18,7 @@ let list = [
 let texto = 
 `Você digitou ${numero[0]} e ${numero[1]}<br>`;
 
+// Loop for
 for (let i = 0; i < list.length; i++) {
     texto += op[i] + list[i] + "<br>"
 }

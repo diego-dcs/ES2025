@@ -1,1 +1,1 @@
-document.writeln("5 + 6 = "+ (5 + 6))
+document.writeln(`5 + 6 = ${5 + 6}`);

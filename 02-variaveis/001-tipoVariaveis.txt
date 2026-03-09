@@ -1,11 +1,12 @@
-/*Variáveis JavaScript podem ser 
+Variáveis JavaScript podem ser 
 declaradas de 4 maneiras:
- JavaScript moderno*/
 
-let di = "Declaração 1";
+1. JavaScript moderno
+
+let d1 = "Declaração 1";
 const d2 = "Declaração 2";
 
-// JavaScript mais antigo
+2. JavaScript mais antigo (não recomendado)
 
 var d3 = 
 "Declaração 3 (não recomendado";

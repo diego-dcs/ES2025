@@ -7,12 +7,12 @@ Operadores Matematicos
     ** Esponenciação
 
     -- Decremento
-    ++ Increkento
+    ++ Incremento
 
 Operadores de Comparação
     < Menor que
     > Maior que
-    <= Menor ou igal
+    <= Menor ou igual
     >= Maior ou igual
     == Igual a
     != Diferente de

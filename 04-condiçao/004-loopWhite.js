@@ -18,6 +18,7 @@ let list = [
 let texto = 
 `Você digitou ${numero[0]} e ${numero[1]}<br>`;
 
+// Loop while
 let i = 0;
 while (i < list.length) {
     texto += op[i] + list[i] + "<br>";

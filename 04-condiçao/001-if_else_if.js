@@ -10,4 +10,4 @@ if (hora < 12 && hora != null ) {
 } else {
     saudaçao = "Saudações!"
 }
-console.log("Olá " + saudaçao)
+console.log(`Olá ${saudaçao}`);
