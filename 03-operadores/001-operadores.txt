@@ -1,0 +1,26 @@
+Operadores Matematicos
+    + Adição
+    - Subitração
+    / Divisão
+    * Multiplicação
+    % Modulo (Resto de Divisão)
+    ** Esponenciação
+
+    -- Decremento
+    ++ Increkento
+
+Operadores de Comparação
+    < Menor que
+    > Maior que
+    <= Menor ou igal
+    >= Maior ou igual
+    == Igual a
+    != Diferente de
+    === identico
+    !== Muinto diferente
+
+Operadores Logico
+    && Ambos
+    || Um ou ambos
+    !  !(true) Retorna o contrario
+    ?? Se null recebe "string"

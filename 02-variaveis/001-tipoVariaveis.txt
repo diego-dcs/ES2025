@@ -1,0 +1,13 @@
+/*Variáveis JavaScript podem ser 
+declaradas de 4 maneiras:
+ JavaScript moderno*/
+
+let di = "Declaração 1";
+const d2 = "Declaração 2";
+
+// JavaScript mais antigo
+
+var d3 = 
+"Declaração 3 (não recomendado";
+
+d4 = "Automático (Não recomendado)";

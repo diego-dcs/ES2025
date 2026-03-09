@@ -1,0 +1,32 @@
+1. Conversão para maiúsculas e 
+minúsculas
+Uma sequência é convertida 
+para maiúsculas com 
+
+    toUpperCase()
+
+2. Uma sequência é convertida em
+minúscula com 
+
+    toLowerCase()
+
+
+3. Remover espaço
+
+    trim()
+    trimStart()
+    trimEnd()
+
+4. Preche string ate completar
+o valor de 5 caractere
+
+    padStart( 5,"-")
+    padEnd( 5, "0")
+
+5. Repetir
+
+    repeat(3)
+    
+6. trocar
+
+    replace("1","2")

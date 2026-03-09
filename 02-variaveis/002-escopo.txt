@@ -1,0 +1,60 @@
+1. Variaveis Jave script não 
+pode inciar com simbolos, 
+numeros ou conter palavras 
+reservadas.
+
+Exemplo incorretos:
+    let 1carro = 1;
+    let @carro = 1;
+    let var = 1;
+
+Por tanto usar numeros, simbolos
+ou palavras reservsdas fara com que o 
+interpretador JS não intenda
+
+Os caracteres (_) e ($) são 
+intepretados como letra
+
+Exemplo:
+    let _carro = 1;
+    let $carro = 1;
+
+Programadores usam ($) para
+indicar que uma varivel é 
+privada
+
+2. JaveScript é Case Sensitive
+ou seja letras maiusculas e 
+menusculas fazem diferença
+
+Exemplo:
+    let nome;
+    let NOME;
+    let noME;
+
+Para o java script são nome 
+diferentes e pode armazenar 
+nomes diferentes.
+também não adianta tentar 
+usar LET ao inves de let
+
+3. Variavéis declaradas 
+dentro de um bloco não podem 
+ser usadas fora do bloco
+
+Exemplo:
+    { // Dentro do bloco
+    let x = 2;
+} // Fora do bloco
+document.write( x )
+// erro
+
+Para isso declare a fora do 
+bloco.
+
+EXEMPLO CORRETO;
+    let nome; // Fora do bloco
+        { // Dentro do bloco
+        nome = "João"
+    } 
+    document.write( nome )

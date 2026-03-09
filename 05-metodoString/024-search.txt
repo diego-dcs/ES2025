@@ -1,0 +1,22 @@
+search(//gi)
+
+busca a posição inicial de 
+uma palavra
+
+lastIndexOf("")
+
+retorna a posição final 
+de uma palavra
+
+obs indexOf() não aceita 
+espressoes regular
+
+match(//gi)
+matchAll()
+
+conta quantas vezes 
+a string se repete
+
+incluides("sim")
+
+retorna verdadeiro se houver

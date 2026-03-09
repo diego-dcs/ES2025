@@ -1,0 +1,10 @@
+Operador de incremento
+
+i++; // Acrecenta 1
+i--; // Subitrai 1
+
+x += 2; // Acrecenta 2
+x -= 2; // subiteai 2
+
+x /= 3; // divide por 3
+x *= 3; //multiplica por 3
