@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 search(/string/gi)
     Busca a posição inicial de 
     uma string
@@ -19,3 +20,27 @@ matchAll()
 
 incluides("sim")
     Retorna true se houver a string "sim"
+=======
+search(//gi)
+
+    busca a posição inicial de 
+    uma palavra
+
+lastIndexOf("")
+
+    retorna a posição final 
+    de uma palavra
+
+obs indexOf() não aceita 
+espressoes regular
+
+match(//gi)
+matchAll()
+
+    conta quantas vezes 
+    a "string" se repete
+
+incluides("sim")
+
+    retorna verdadeiro se houver
+>>>>>>> 7560812a9047409ce63819eb876a6ee8c3e3a171
