@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 search(/string/gi)
     Busca a posição inicial de 
     uma string
@@ -43,4 +42,4 @@ matchAll()
 incluides("sim")
 
     retorna verdadeiro se houver
->>>>>>> 7560812a9047409ce63819eb876a6ee8c3e3a171
+
