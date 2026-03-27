@@ -1,0 +1,18 @@
+.isNAN()
+    Verifica se não é um numero
+
+.parseInt()
+    Converte uma string em 
+    numero inteiro
+
+.parseFloat()
+    Converte uma string em 
+    numero ponto flutuante
+
+.toFixed(2)
+    Arredonda o valor para
+    duas casas
+
+.toPrecision(2)
+    Fotmata o valor para um 
+    comprimento especifico

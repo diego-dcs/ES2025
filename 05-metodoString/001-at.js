@@ -1,13 +1,16 @@
 let vogais ="AEIOU"
 /*
-para contar a quantidade 
+.length conta a quantidade 
 de caractere de uma string
 */
 let qtd = vogais.length;
 
-/* para pegar o 1º e o ultimo
+/*
+.charAt(0) pega o 1º caracter
+.charAt(vogais.length -1) pega o ultimo
 
 let primeira = vogais.charAt(0);
+
 let ul =
 vogais.charAt(vogais.length -1)
 

@@ -23,10 +23,10 @@ o valor de 5 caractere
     padStart( 5,"-")
     padEnd( 5, "0")
 
-5. Repetir
+5. Repete pelo valor recebido
 
     repeat(3)
     
-6. trocar
+6. troca a prmeira string pela segunda string
 
     replace("1","2")

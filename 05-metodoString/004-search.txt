@@ -1,0 +1,21 @@
+search(/string/gi)
+    Busca a posição inicial de 
+    uma string
+
+indexOf("")
+    Busca a posição inicial da string
+
+lastIndexOf("")
+    Busca a posição final da string
+
+    Obs indexOf() não aceita 
+    espressoes regular
+
+match(//gi)
+
+matchAll()
+    Conta quantas vezes 
+    a string se repete
+
+incluides("sim")
+    Retorna true se houver a string "sim"
