@@ -1,5 +1,5 @@
 // .split(", ") retorna um Array dividindo a string no 
-// caracter ", " vitgula espaço 
+// caracter ", " virgula espaço 
 
 let x = 
 "Apple, banana, kiwi";
